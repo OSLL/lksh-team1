@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">Pattern</string>
+    <string name="app_name">ЛКШ.Ассистент</string>
+    <string name="nav_title_map">Карта</string>
+    <string name="nav_title_info">Информация</string>
+    <string name="nav_title_profile">Профиль</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tabs_timetable_title">Расписание</string>
+    <string name="tabs_brief_title">Все участники</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="login">Войти</string>
+    <string name="lksh">Летняя\nКомпьютерная\nШкола</string>
+    <string name="passwordHint">Пароль</string>
+    <string name="username">Имя пользователя</string>
+    <string name="preHouse">Домик: </string>
+    <string name="preParallel">Параллель: </string>
+    <string name="preSurname">Фамилия: </string>
+    <string name="preName">Имя: </string>
+    <string name="preCity">Город: </string>
+    <string name="preRoom">Комната: </string>
 </resources>
